@@ -1,0 +1,49 @@
+[{
+    "superhero": "Batman",
+    "publisher": "Dc",
+    "alter ego": "bruce",
+    "a":"comic #27",
+    "characters":"bruce"}
+    ,{
+    "superhero": "Superman",
+    "publisher": "Dc",
+    "alter ego": "kal-el",
+    "a":"comic #1",
+    "characters":"kal-el"
+},{
+    "superhero": "flash",
+    "publisher": "Dc",
+    "alter ego": "jay",
+    "a":"comicF #1",
+    "characters":"jay, barry"
+},{
+    "superhero": "green lantern",
+    "publisher": "Dc",
+    "alter ego": "alan",
+    "a":"comicGL #1",
+    "characters":"jay, hal, batman"
+},{
+    "superhero": "spiderman",
+    "publisher": "Marvel",
+    "alter ego": "peter",
+    "a":"comicSpider #2",
+    "characters":"MK, Peter"
+},{
+    "superhero": "Iron Man",
+    "publisher": "Marvel",
+    "alter ego": "tony",
+    "a":"comicIM #5",
+    "characters":"Tony, PP"
+},{
+    "superhero": "Hulk",
+    "publisher": "Marvel",
+    "alter ego": "bruceB",
+    "a":"comicH #54",
+    "characters":"bruceB"
+},{
+    "superhero": "Capitan america",
+    "publisher": "Marvel",
+    "alter ego": "Steve",
+    "a":"comicCA #27",
+    "characters":"Steve, bucky"
+}]

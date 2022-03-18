@@ -1,0 +1,118 @@
+[
+    {
+      "icon": "american-football-outline",
+      "name": "Action sheet",
+      "redirectTo": "/action-sheet"
+    },
+    {
+      "icon": "alert",
+      "name": "Alert",
+      "redirectTo": "/alert"
+    },
+    {
+      "icon": "person-circle-outline",
+      "name": "Avatar",
+      "redirectTo": "/avatar"
+    },
+    {
+      "icon": "diamond-outline",
+      "name": "Button",
+      "redirectTo": "/button"
+  },
+  {
+      "icon": "card-outline",
+      "name": "Card",
+      "redirectTo": "/card"
+  },
+  {
+      "icon": "checkmark-outline",
+      "name": "Check",
+      "redirectTo": "/check"
+  },
+  {
+      "icon": "calendar-outline",
+      "name": "Date",
+      "redirectTo": "/date-time"
+  },
+  {
+      "icon": "bonfire-outline",
+      "name": "Fab",
+      "redirectTo": "/fab"
+  },
+  {
+      "icon": "albums-outline",
+      "name": "Grid",
+      "redirectTo": "/grid"
+  },
+  {
+      "icon": "git-compare-outline",
+      "name": "Infinite",
+      "redirectTo": "/infinite"
+  },
+  {
+      "icon": "hammer-outline",
+      "name": "Input",
+      "redirectTo": "/input"
+  },
+  {
+      "icon": "list-outline",
+      "name": "List - sliding",
+      "redirectTo": "/list"
+  },
+  {
+      "icon": "reorder-three-outline",
+      "name": "Reorder",
+      "redirectTo": "/reorder"
+  },
+  {
+      "icon": "refresh-circle-outline",
+      "name": "Loading",
+      "redirectTo": "/loading"
+  },
+  {
+      "icon": "pizza-outline",
+      "name": "Modal",
+      "redirectTo": "/modal"
+  },
+  {
+      "icon": "bus",
+      "name": "Popover",
+      "redirectTo": "/popover"
+  },
+  {
+      "icon": "code-working-outline",
+      "name": "Progress",
+      "redirectTo": "/progress"
+  },
+  {
+      "icon": "arrow-down-circle-outline",
+      "name": "Refreseher",
+      "redirectTo": "/refresher"
+  },
+  {
+      "icon": "search-outline",
+      "name": "Search",
+      "redirectTo": "/search"
+  },
+  {
+      "icon": "beer-outline",
+      "name": "segment",
+      "redirectTo": "/segment"
+  },
+  {
+      "icon": "albums-outline",
+      "name": "Slides",
+      "redirectTo": "/slides"
+  },
+  {
+      "icon": "cog-outline",
+      "name": "Tabs",
+      "redirectTo": "/tabs/account"
+  },
+  {
+      "icon": "planet-outline",
+      "name": "Toast",
+      "redirectTo": "/toast"
+  }
+
+  ]
